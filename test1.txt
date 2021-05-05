@@ -1,0 +1,10 @@
+ Volume in drive C has no label.
+ Volume Serial Number is F8E1-D320
+
+ Directory of C:\Users\Ntokozo\Desktop\My Project
+
+05/05/2021  11:35 PM    <DIR>          .
+05/05/2021  11:35 PM    <DIR>          ..
+05/05/2021  11:35 PM                 0 test1.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  239,829,282,816 bytes free
